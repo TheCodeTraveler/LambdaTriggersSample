@@ -21,8 +21,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Amazon.Lambda.Annotations" Version="1.7.0" />
-    <PackageReference Include="Amazon.Lambda.Core" Version="2.8.0" />
+    <PackageReference Include="Amazon.Lambda.Annotations" Version="1.15.1" />
+    <PackageReference Include="Amazon.Lambda.Core" Version="2.8.1" />
     <PackageReference Include="Amazon.Lambda.RuntimeSupport" Version="1.13.0" />
     <PackageReference Include="Amazon.Lambda.S3Events" Version="3.1.0" />
     <PackageReference Include="Amazon.Lambda.Serialization.SystemTextJson" Version="2.4.5" />
